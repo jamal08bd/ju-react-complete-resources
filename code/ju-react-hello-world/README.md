@@ -1,4 +1,4 @@
-#zExample
+## React: Hello World ##
 
 To run this example:
 
