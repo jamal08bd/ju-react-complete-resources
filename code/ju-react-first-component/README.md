@@ -1,4 +1,4 @@
-#zExample
+## React: First Component ##
 
 To run this example:
 
