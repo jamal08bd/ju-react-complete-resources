@@ -10,3 +10,4 @@ To effectively learn, check the Code Snapshot in the following order:
 - ju-react-props
 - ju-react-css-modules
 - ju-react-postlist-component
+- ju-react-event-listener
