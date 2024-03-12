@@ -2,9 +2,7 @@
 
 ## What's this repository for? ##
 
-This repository provides access to all my "React" code snapshots. When working with React, these can be used as a "React Refresher" or just to learn React.
-
-Thank you so much [@maxedapps](https://twitter.com/maxedapps) for all the knowledge you bring to this field.
+This repository provides access to all my "React" code snapshots which I practiced. Thank you so much [@maxedapps](https://twitter.com/maxedapps) for all the knowledge you bring to this field. When working with React, these can be used as a "React Refresher" or just to learn React.
 
 ## Repository Content ##
 
