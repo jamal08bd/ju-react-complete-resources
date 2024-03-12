@@ -1,6 +1,6 @@
 # Details info here #
 
-To effectively learn, check the Code Snapshot in the following order:
+For effectiveness, Code Snapshot should be checked in the following order:
 
 
 - ju-react-hello-world
@@ -11,3 +11,5 @@ To effectively learn, check the Code Snapshot in the following order:
 - ju-react-css-modules
 - ju-react-postlist-component
 - ju-react-event-listener
+- ju-react-state
+- ju-react-lifting-state-up
