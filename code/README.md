@@ -14,3 +14,4 @@ For effectiveness, Code Snapshot should be checked in the following order:
 - ju-react-state
 - ju-react-lifting-state-up
 - ju-react-children-prop
+- ju-react-conditional-modal
