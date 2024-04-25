@@ -16,3 +16,4 @@ For effectiveness, Code Snapshot should be checked in the following order:
 - ju-react-children-prop
 - ju-react-conditional-modal
 - ju-react-header-and-more-state-management
+- ju-react-simple-form
