@@ -20,3 +20,4 @@ For effectiveness, Code Snapshot should be checked in the following order:
 - ju-react-form-cancel
 - ju-react-output-list-of-posts
 - ju-react-sending-post-http-request
+- ju-react-data-fetching-using-useeffect
