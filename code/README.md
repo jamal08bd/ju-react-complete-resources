@@ -24,3 +24,4 @@ For effectiveness, Code Snapshot should be checked in the following order:
 - ju-react-loading-state
 - ju-react-adding-route
 - ju-react-layout-route
+- ju-react-refactored-routes
