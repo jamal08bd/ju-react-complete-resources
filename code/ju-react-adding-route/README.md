@@ -1,4 +1,4 @@
-## React: Loading state ##
+## React: Adding Route ##
 
 This code snapshot is an example of how we can add route to different pages (component)
 
